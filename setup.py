@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(
-    name="ml-aspanformer",
+    name="ml_aspanformer",
     packages=["src"],
     version="0.1.0",
     author="J",
